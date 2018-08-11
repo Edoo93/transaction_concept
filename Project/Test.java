@@ -27,8 +27,6 @@ public class Test {
 //		employees.printAllEmployees();
 //		employer.printAllEmployers();
 		//order.queryByDate("2017/05/22", "2017/05/25");
-		//order.queryOrdersByEmployee("barry");
-		//order.queryByEmployeeAndDate("BARRY", "2017/05/22", "2017/05/25");
 		products.updateProduct("CAPPUCCINO");
 	}
 
