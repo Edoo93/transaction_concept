@@ -14,7 +14,6 @@ public class Test {
 		Order order = new Order();
 		Products pbc = new Products();
 		Person p = new Person("c", "b" ,"q", "w", "e", "t", "y");
-//		Person p = new Person("Barry", "Balls", "Chef", "1995");
 //		employer.addEmployerToDB(p);
 //		employees.addEmployeeToDB(p);
 		//connection.addPersonToDB(p);
